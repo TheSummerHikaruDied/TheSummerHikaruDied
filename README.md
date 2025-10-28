@@ -6,7 +6,8 @@
 <p align="center">WIP PAGE FOR MY MAIN ACC, LINKS DONT WORK ATM </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/807760df-60fc-41df-8ed0-9a2cf3ea4590" />
+<img src="https://github.com/user-attachments/assets/23afad45-644f-4381-abf9-77e30a37c461" />
+
 
 </p>
 
@@ -17,4 +18,4 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/01ff0db2-0283-44ec-a9f2-cfb19a1ccdb6" />
+<img src="https://github.com/user-attachments/assets/02b592ec-63f7-4b00-808e-937e07ffc92c" />
