@@ -1,4 +1,4 @@
-<p align="center">WIP PAGE FOR MY MAIN ACC </p>
+<p align="center">WIP PAGE FOR MY MAIN ACC, LINKS DONT WORK ATM </p>
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/807760df-60fc-41df-8ed0-9a2cf3ea4590" />
