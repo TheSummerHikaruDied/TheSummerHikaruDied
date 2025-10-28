@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0953451c-ce85-4690-bc7e-8ef7d0bbd520" />
+<img src="https://github.com/user-attachments/assets/85438d3f-60cd-49ac-a7e6-b440acb693cd" />
+
 
 
 <p align="center">WIP PAGE FOR MY MAIN ACC, LINKS DONT WORK ATM </p>
@@ -16,4 +17,4 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/408270c8-a9cb-4e54-951a-33ca2095d439" />
+<img src="https://github.com/user-attachments/assets/01ff0db2-0283-44ec-a9f2-cfb19a1ccdb6" />
