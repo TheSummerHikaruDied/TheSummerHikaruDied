@@ -1,14 +1,10 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/85438d3f-60cd-49ac-a7e6-b440acb693cd" />
-
-
+<img src="https://github.com/user-attachments/assets/417aedbe-4cff-4483-b930-b50a460f3f40" />
 
 <p align="center">WIP PAGE FOR MY MAIN ACC, LINKS DONT WORK ATM </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/23afad45-644f-4381-abf9-77e30a37c461" />
-
-
+<img src="https://github.com/user-attachments/assets/807760df-60fc-41df-8ed0-9a2cf3ea4590" />
 </p>
 
 <p align="center">
@@ -18,4 +14,4 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/02b592ec-63f7-4b00-808e-937e07ffc92c" />
+<img src="https://github.com/user-attachments/assets/5a41d85e-1012-45d6-a06b-cad5487ca015" />
