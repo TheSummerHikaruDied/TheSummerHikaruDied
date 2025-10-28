@@ -1,11 +1,12 @@
 <p align="center">WIP PAGE FOR MY MAIN ACC </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8b25e431-b9f8-4675-986b-a9277a245b36" />
+<img src="https://github.com/user-attachments/assets/807760df-60fc-41df-8ed0-9a2cf3ea4590" />
+
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f03b7331-f30c-4471-879c-ede15a95c179" />
-<img src="https://github.com/user-attachments/assets/42814e66-ac35-4632-a985-2bdc710697f5" />
-<img src="https://github.com/user-attachments/assets/f75f99b4-9604-4dc5-a673-daba5275c9dc" />
+<img src="https://github.com/user-attachments/assets/8536a886-a84d-428d-8b35-4138b4db532c" />
+<img src="https://github.com/user-attachments/assets/0af03469-dc61-4ac8-ac1d-03386abd5e74" />
+<img src="https://github.com/user-attachments/assets/a60c7a18-785d-428c-bcbd-d9cf0ff40044" />
 </p>
