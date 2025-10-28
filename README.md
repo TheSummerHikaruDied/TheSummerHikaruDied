@@ -7,6 +7,6 @@
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/8536a886-a84d-428d-8b35-4138b4db532c" />
-<img src="https://github.com/user-attachments/assets/0af03469-dc61-4ac8-ac1d-03386abd5e74" />
+<img src="https://github.com/user-attachments/assets/3fce3c74-0bf9-4aff-8dc8-d95c7f9d271e" />
 <img src="https://github.com/user-attachments/assets/a60c7a18-785d-428c-bcbd-d9cf0ff40044" />
 </p>
