@@ -25,7 +25,7 @@ $\color{#73C72E}{\textsf{"Misinformed knowledge is the source of all prejudice.}
 <img src="https://github.com/user-attachments/assets/a12f32c7-09a4-43c2-a89d-8c5eb29e45f2" </p>
 
 <p align="Center">
-<img src="https://komarev.com/ghpvc/?username=verciless&label=Hatchlings&color=3FC900"
+<img src="https://komarev.com/ghpvc/?username=thesummerhikarudied&label=Hatchlings&color=3FC900"
   </p>
 
  <hr>
